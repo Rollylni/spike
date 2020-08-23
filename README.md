@@ -6,4 +6,4 @@
 
 # Пример
 [Ссылка на сообщество](https://vk.com/kronos_bs)
-![example](example.jpg)
+![example](example.png)
